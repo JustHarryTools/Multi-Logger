@@ -8,7 +8,7 @@ Check Out https://github.com/JustHarryTools
 ![image](https://i.imgur.com/6BAJJ7e.png)
 
 # Feautres
-	🟢Logs Discord Token
+	    🟢Logs Discord Token
         🟢System Specifiation
         🟢IP/MAC Adress
         🟢Roblox Cookies
